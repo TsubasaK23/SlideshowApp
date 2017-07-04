@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4B1DF3031F0550C100735A6C /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B1DF3021F0550C100735A6C /* ResultViewController.swift */; };
 		4B1F640E1EFAC26F00B89AA3 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B1F640D1EFAC26F00B89AA3 /* AppDelegate.swift */; };
 		4B1F64101EFAC26F00B89AA3 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4B1F640F1EFAC26F00B89AA3 /* ViewController.swift */; };
 		4B1F64131EFAC26F00B89AA3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4B1F64111EFAC26F00B89AA3 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4B1DF3021F0550C100735A6C /* ResultViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
 		4B1F640A1EFAC26F00B89AA3 /* SlideshowApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SlideshowApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4B1F640D1EFAC26F00B89AA3 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4B1F640F1EFAC26F00B89AA3 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				4B1F640D1EFAC26F00B89AA3 /* AppDelegate.swift */,
 				4B1F640F1EFAC26F00B89AA3 /* ViewController.swift */,
 				4B1F64111EFAC26F00B89AA3 /* Main.storyboard */,
+				4B1DF3021F0550C100735A6C /* ResultViewController.swift */,
 				4B1F64141EFAC26F00B89AA3 /* Assets.xcassets */,
 				4B1F64161EFAC26F00B89AA3 /* LaunchScreen.storyboard */,
 				4B1F64191EFAC26F00B89AA3 /* Info.plist */,
@@ -138,6 +141,7 @@
 			files = (
 				4B1F64101EFAC26F00B89AA3 /* ViewController.swift in Sources */,
 				4B1F640E1EFAC26F00B89AA3 /* AppDelegate.swift in Sources */,
+				4B1DF3031F0550C100735A6C /* ResultViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -299,6 +303,7 @@
 				4B1F641E1EFAC26F00B89AA3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
